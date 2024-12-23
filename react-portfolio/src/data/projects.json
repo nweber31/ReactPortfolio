@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Next Play Fantasy",
+        "imageSrc": "assets/projects/next-play-logo.png",
+        "description": "A Fantasy Football web app where you can compete against your friends in daily contests and win trophies.",
+        "demo": "https://nextplayfantasy.com/",
+        "source": "https://nextplayfantasy.com/"
+    },
+    {
+        "title": "Project Buzzmon",
+        "imageSrc": "assets/projects/buzzmon.png",
+        "description": "Pokemon inspired battling game in which I composed the music as well as implemented the game mechanics.",
+        "demo": "https://github.com/nweber31/Buzzmon",
+        "source": "https://github.com/nweber31/Buzzmon"
+    },
+    {
+        "title": "Crush Depth",
+        "imageSrc": "assets/projects/crush-depth-1.png",
+        "description": "A submarine adventure game for the Game Boy Advanced in which I programmed the game mechanics and wrote the music.",
+        "demo": "https://youtube/f9IiGR3ShaY",
+        "source": "https://github.com/nweber31/Crush-Depth"
+    }
+]
