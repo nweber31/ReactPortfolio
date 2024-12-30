@@ -1,7 +1,7 @@
 [
     {
         "title": "Next Play Fantasy",
-        "imageSrc": "assets/projects/next-play-logo.png",
+        "imageSrc": "react-portfolio/assets/projects/next-play-logo.png",
         "description": "A Fantasy Football app in which I integrated Figma designs, implemented an SQL database, and made API calls to get stats.",
         "demo": "https://nextplayfantasy.com/",
         "source": "https://nextplayfantasy.com/"
