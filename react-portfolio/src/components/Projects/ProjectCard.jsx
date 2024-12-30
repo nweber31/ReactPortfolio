@@ -4,7 +4,7 @@ import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 
 export const ProjectCard = ({ project: { title, imageSrc, description, demo, source } }) => {
-    const imagePath = new URL(`../../assets/${imageSrc}`, import.meta.url).href;
+    const imagePath = new URL(`../../assets/projects/${imageSrc}`, import.meta.url).href;
     return (
         <div className={styles.container}>
             <img src={imagePath} alt={title} className={styles.image} />
