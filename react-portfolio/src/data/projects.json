@@ -1,21 +1,21 @@
 [
     {
         "title": "Next Play Fantasy",
-        "imageSrc": "react-portfolio/assets/projects/next-play-logo.png",
+        "imageSrc": "next-play-logo.png",
         "description": "A Fantasy Football app in which I integrated Figma designs, implemented an SQL database, and made API calls to get stats.",
         "demo": "https://nextplayfantasy.com/",
         "source": "https://nextplayfantasy.com/"
     },
     {
         "title": "Project Buzzmon",
-        "imageSrc": "assets/projects/buzzmon.png",
+        "imageSrc": "buzzmon.png",
         "description": "A Pokemon inspired battling game in which I composed the music as well as implemented the game mechanics.",
         "demo": "https://github.com/nweber31/Buzzmon",
         "source": "https://github.com/nweber31/Buzzmon"
     },
     {
         "title": "Crush Depth",
-        "imageSrc": "assets/projects/crush-depth-1.png",
+        "imageSrc": "crush-depth-1.png",
         "description": "A submarine adventure game for the Game Boy Advanced in which I programmed the game mechanics and wrote the music.",
         "demo": "https://youtu.be/f9IiGR3ShaY",
         "source": "https://github.com/nweber31/Crush-Depth"
