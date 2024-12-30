@@ -2,13 +2,18 @@ import React from "react";
 
 import styles from "./About.module.css";
 
+import cursorIcon from "/assets/about/cursorIconNew1.png";
+import gameIcon from "/assets/about/gameIcon1.png";
+import musicIcon from "/assets/about/musicIcon1.png";
+
+
 export const About = () => {
     return (
         <section className={styles.container} id="about">
-            <h2 className={styles.title}>About Me</h2>
+            <h2 className={styles.title}>About</h2>
             <div className={styles.content}>
                 <ul className={styles.aboutItems}>
-                    <li className={styles.aboutItem}><img src="/assets/about/cursorIconNew1.png" alt="CursorIcon" />
+                    <li className={styles.aboutItem}><img src={cursorIcon} alt="CursorIcon" />
                         <div className={styles.aboutItemText}>
                             <h3>Software Developer</h3>
                             <p>
@@ -16,7 +21,7 @@ export const About = () => {
                             </p>
                         </div>
                     </li>
-                    <li className={styles.aboutItem}><img src="/assets/about/gameIcon1.png" alt="GameIcon" />
+                    <li className={styles.aboutItem}><img src={gameIcon} alt="GameIcon" />
                         <div className={styles.aboutItemText}>
                             <h3>Game Developer</h3>
                             <p>
@@ -24,7 +29,7 @@ export const About = () => {
                             </p>
                         </div>
                     </li>
-                    <li className={styles.aboutItem}><img src="/assets/about/musicIcon1.png" alt="MusicIcon" />
+                    <li className={styles.aboutItem}><img src={musicIcon} alt="MusicIcon" />
                         <div className={styles.aboutItemText}>
                             <h3>Musician</h3>
                             <p>
