@@ -7,7 +7,7 @@ export const ProjectCard = ({ project: { title, imageSrc, description, demo, sou
     const imagePath = `/images/${imageSrc}`;
     return (
         <div className={styles.container}>
-            <img src={imagePath} alt={title} className={styles.image} />
+            <img src={imageSrc} alt={title} className={styles.image} />
             <h3 className={styles.title}>{title}</h3>
             <p className={styles.description}>{description}</p>
             <div className={styles.links}>
